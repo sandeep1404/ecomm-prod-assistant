@@ -1,23 +1,23 @@
 These are all the commands that you need to run on your command prompt
 
-Write Python in your terminal
-If you have Python, then no need to install it
- uv --version
+1. Write Python in your terminal
+2. If you have Python, then no need to install it
+3. uv --version
 If you are not able to get the version
-Pip install uv
-import shutil
-print(shutil.which("uv"))
+4. Pip install uv
+5. import shutil
+   print(shutil.which("uv"))
  
- 6. Uv init <my-project-name>
+6. Uv init <my-project-name>
 7. uv pip list
  
 8. uv python list
-uv venv env --python cpython-3.10.18-windows-x86_64-none
-uv venv <your-env-namne> --python <your-python-version>
+9. uv venv env --python cpython-3.10.18-windows-x86_64-none
+10. uv venv <your-env-namne> --python <your-python-version>
 Note: Please use either 3.10, 3.11, or 3.12
-Command Prompt (CMD)  .\<your-env-nanme>\Scripts\activate.bat
-Git Bash ya WSL terminal, or MAC Terminal:
-source <your-env-nanme>/Scripts/activate
+11. Command Prompt (CMD)  .\<your-env-nanme>\Scripts\activate.bat
+12. Git Bash ya WSL terminal, or MAC Terminal:
+13. source <your-env-nanme>/Scripts/activate
 
 
 18. If your git is asking for a login to publish the repo, execute the command below
