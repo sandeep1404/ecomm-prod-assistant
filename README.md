@@ -20,16 +20,15 @@ Note: Please use either 3.10, 3.11, or 3.12
 13. source <your-env-nanme>/Scripts/activate
 
 
-18. If your git is asking for a login to publish the repo, execute the command below
+If your git is asking for a login to publish the repo, execute the command below
 git config --global user.name "Your Name"
 git config --global user.email "your-email@example.com"
-19. UV add <package_name>
-20. Uv add -r requirements.txt
-21. Streamlit run <give your streamlit python filename>
-22. Install the live server extension in VS Code for testing the HTML
+UV add <package_name>
+Uv add -r requirements.txt
+Streamlit run <give your streamlit python filename>
+Install the live server extension in VS Code for testing the HTML
 
 For accessing the DataStax, here is a link: https://accounts.datastax.com/session-service/v1/login
 
 Vectordb Comparison: https://superlinked.com/vector-db-comparison
 
-Once you log in to the DataStax Vector page, you will get the following page
