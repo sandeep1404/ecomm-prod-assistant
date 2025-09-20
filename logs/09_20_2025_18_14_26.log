@@ -1,0 +1,17 @@
+{"timestamp": "2025-09-20T09:14:26.829540Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-20T09:14:26.829719Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-20T09:14:26.829802Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_79...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-20T09:14:26.829870Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-20T09:14:26.831669Z", "level": "info", "event": "YAML config loaded"}
+{"timestamp": "2025-09-20T09:14:26.832583Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-20T09:14:26.832704Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-20T09:14:26.832778Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_79...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-20T09:14:26.832845Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-20T09:14:26.834446Z", "level": "info", "event": "YAML config loaded"}
+{"timestamp": "2025-09-20T09:14:26.836994Z", "level": "info", "event": "Running in LOCAL mode: .env loaded"}
+{"timestamp": "2025-09-20T09:14:26.837090Z", "level": "info", "event": "Loaded GROQ_API_KEY from individual env var"}
+{"timestamp": "2025-09-20T09:14:26.837123Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from individual env var"}
+{"keys": {"GROQ_API_KEY": "gsk_79...", "GOOGLE_API_KEY": "AIzaSy..."}, "timestamp": "2025-09-20T09:14:26.837150Z", "level": "info", "event": "API keys loaded"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-09-20T09:14:26.838103Z", "level": "info", "event": "YAML config loaded"}
+{"model": "models/text-embedding-004", "timestamp": "2025-09-20T09:14:26.838159Z", "level": "info", "event": "Loading embedding model"}
+vector store default init, collection 'ecommercedata'
