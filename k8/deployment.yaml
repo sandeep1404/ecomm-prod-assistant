@@ -18,7 +18,7 @@ spec:
       - name: product-assistant
         image: 921558065286.dkr.ecr.us-east-1.amazonaws.com/product-assistant:latest
         ports:
-        - containerPort: 8000
+        - containerPort: 8001
         env:                              
         - name: OPENAI_API_KEY
           valueFrom:
