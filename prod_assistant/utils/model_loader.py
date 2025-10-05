@@ -124,7 +124,7 @@ if __name__ == "__main__":
     # Test Embedding
     embeddings = loader.load_embeddings()
     print(f"Embedding Model Loaded: {embeddings}")
-    result = embeddings.embed_query("Hello, how are you?")
+    result = embeddings.embed_query("how are you doing?")
     print(f"Embedding Result: {result}")
 
     # Test LLM
